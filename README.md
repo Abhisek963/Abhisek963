@@ -24,8 +24,8 @@ Languages
 
 📫Connect with me:
 
-[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/in/abhisek-singh-555b1b291/)  
-[<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48">](https://x.com/abhishe45348645?t=fpR1dbkB4Pi1EuDocW07gA&s=09)  
-[<img src="https://user-images.githubusercontent.com/39955420/147572858-093e11d5-c974-43de-9795-f328d4cda097.png" height="48" width="48">](https://www.instagram.com/abhhisek004/)  
+[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/in/abhisek-singh-555b1b291/)
+[<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48">](https://x.com/abhishe45348645?t=fpR1dbkB4Pi1EuDocW07gA&s=09)
+[<img src="https://user-images.githubusercontent.com/39955420/147572858-093e11d5-c974-43de-9795-f328d4cda097.png" height="48" width="48">](https://www.instagram.com/abhhisek004/)
 
 
