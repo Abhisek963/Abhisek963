@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Abhisek Singh  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
 
-[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/abhiseksingh/)
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/abhisek-singh-555b1b291/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/abhisheksingh__?style=social)](https://twitter.com/abhishe45348645)
 [![GitHub followers](https://img.shields.io/github/followers/Abhisek963?style=social)](https://github.com/Abhisek963)
 
