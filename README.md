@@ -4,7 +4,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/abhisheksingh__?style=social)](https://twitter.com/abhishe45348645)
 [![GitHub followers](https://img.shields.io/github/followers/Abhisek963?style=social)](https://github.com/Abhisek963)
 
-<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
+<h2 align="center">🔥 Keep Learning, Keep Growing! 🚀</h2>
+
 
 <h2>About me</h2>
 
